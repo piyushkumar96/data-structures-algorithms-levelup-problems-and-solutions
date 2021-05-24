@@ -29,7 +29,7 @@ int main() {
     vector<int> pair = pairSum(v, targetSum);
 
     if (pair.size() == 0) {
-        cout<<"No pairs found"<<endl;
+        cout<<"No pair found"<<endl;
     } else {
         cout<<"Pair: ["<<pair[0]<<","<<pair[1]<<"]"<<endl;
     }
