@@ -6,3 +6,7 @@
 2. Triplets Sum Problem.
    <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/2.ArrayAndVector-Question2.jpg)
    <br /> [Solution](/1.%20Arrays%20and%20Vectors/2.question2-solution.cpp)
+
+3. Highest Mountain Peak Problem.
+   <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/3.ArrayAndVector-Question3.jpg)
+   <br /> [Solution](/1.%20Arrays%20and%20Vectors/3.question3-solution.cpp)
