@@ -14,3 +14,7 @@
 4. Longest Band of Consecutive Number Problem.
    <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/4.ArrayAndVector-Question4.jpg)
    <br /> [Solution](/1.%20Arrays%20and%20Vectors/4.question4-solution.cpp)
+
+4. Rain Water Trapped Problem.
+   <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/5.ArrayAndVector-Question5.jpg)
+   <br /> [Solution](/1.%20Arrays%20and%20Vectors/5.question5-solution.cpp)
