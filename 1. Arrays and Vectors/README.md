@@ -15,6 +15,10 @@
    <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/4.ArrayAndVector-Question4.jpg)
    <br /> [Solution](/1.%20Arrays%20and%20Vectors/4.question4-solution.cpp)
 
-4. Rain Water Trapped Problem.
+5. Rain Water Trapped Problem.
    <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/5.ArrayAndVector-Question5.jpg)
    <br /> [Solution](/1.%20Arrays%20and%20Vectors/5.question5-solution.cpp)
+
+6. Sub Array Sorted Problem.
+   <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/6.ArrayAndVector-Question6.jpg)
+   <br /> [Solution](/1.%20Arrays%20and%20Vectors/6.question6-solution.cpp)
