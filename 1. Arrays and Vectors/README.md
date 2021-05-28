@@ -22,3 +22,7 @@
 6. Sub Array Sorted Problem.
    <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/6.ArrayAndVector-Question6.jpg)
    <br /> [Solution](/1.%20Arrays%20and%20Vectors/6.question6-solution.cpp)
+
+7. Minimum Swap to Sort Array Problem.
+   <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/7.ArrayAndVector-Question7.jpg)
+   <br /> [Solution](/1.%20Arrays%20and%20Vectors/7.question7-solution.cpp)
