@@ -26,3 +26,7 @@
 7. Minimum Swap to Sort Array Problem.
    <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/7.ArrayAndVector-Question7.jpg)
    <br /> [Solution](/1.%20Arrays%20and%20Vectors/7.question7-solution.cpp)
+
+8. Maximum SubArray Sum Problem.
+   <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/8.ArrayAndVector-Question8.jpg)
+   <br /> [Solution](/1.%20Arrays%20and%20Vectors/8.question8-solution.cpp)
