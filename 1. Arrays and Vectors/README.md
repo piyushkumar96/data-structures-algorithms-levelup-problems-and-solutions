@@ -34,3 +34,7 @@
 9. Minimum Difference btw two Arrays Problem.
    <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/9.ArrayAndVector-Question9.jpg)
    <br /> [Solution](/1.%20Arrays%20and%20Vectors/9.question9-solution.cpp)
+
+10. Product Array Problem.
+   <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/10.ArrayAndVector-Question10.jpg)
+   <br /> [Solution](/1.%20Arrays%20and%20Vectors/10.question10-solution.cpp)
