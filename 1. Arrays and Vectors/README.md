@@ -38,3 +38,7 @@
 10. Product Array Problem.
    <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/10.ArrayAndVector-Question10.jpg)
    <br /> [Solution](/1.%20Arrays%20and%20Vectors/10.question10-solution.cpp)
+
+11. Count Activities Problem.
+    <br /> [Question](/1.%20Arrays%20and%20Vectors/docs/11.ArrayAndVector-Question11.jpg)
+    <br /> [Solution](/1.%20Arrays%20and%20Vectors/11.question11-solution.cpp)
