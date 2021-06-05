@@ -10,4 +10,8 @@
 3. String tokenization using strtok Problem.
    <br /> [Question](/2.%20Strings/docs/3.Strings-Question3.jpg)
    <br /> [Solution](/2.%20Strings/3.question3-solution.cpp)
+
+4. Own String Tokenization function Problem.
+   <br /> [Question](/2.%20Strings/docs/4.Strings-Question4.jpg)
+   <br /> [Solution](/2.%20Strings/4.question4-solution.cpp)
    
