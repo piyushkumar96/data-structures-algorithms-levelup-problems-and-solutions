@@ -22,4 +22,8 @@
 6. Check Sub Sequence Problem.
    <br /> [Question](/2.%20Strings/docs/6.Strings-Question6.jpg)
    <br /> [Solution](/2.%20Strings/6.question6-solution.cpp)
+
+7. Sorted Sub Sequence Problem.
+   <br /> [Question](/2.%20Strings/docs/7.Strings-Question7.jpg)
+   <br /> [Solution](/2.%20Strings/7.question7-solution.cpp)
    
