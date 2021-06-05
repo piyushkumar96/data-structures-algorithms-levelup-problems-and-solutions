@@ -14,4 +14,8 @@
 4. Own String Tokenization function Problem.
    <br /> [Question](/2.%20Strings/docs/4.Strings-Question4.jpg)
    <br /> [Solution](/2.%20Strings/4.question4-solution.cpp)
+
+4. Custom Sort Strings Problem.
+   <br /> [Question](/2.%20Strings/docs/5.Strings-Question5.jpg)
+   <br /> [Solution](/2.%20Strings/5.question5-solution.cpp)
    
