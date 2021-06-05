@@ -6,4 +6,8 @@
 2. String tokenization using stringstream Problem.
    <br /> [Question](/2.%20Strings/docs/2.Strings-Question2.jpg)
    <br /> [Solution](/2.%20Strings/2.question2-solution.cpp)
+
+3. String tokenization using strtok Problem.
+   <br /> [Question](/2.%20Strings/docs/3.Strings-Question3.jpg)
+   <br /> [Solution](/2.%20Strings/3.question3-solution.cpp)
    
