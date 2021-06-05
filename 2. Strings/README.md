@@ -15,7 +15,11 @@
    <br /> [Question](/2.%20Strings/docs/4.Strings-Question4.jpg)
    <br /> [Solution](/2.%20Strings/4.question4-solution.cpp)
 
-4. Custom Sort Strings Problem.
+5. Custom Sort Strings Problem.
    <br /> [Question](/2.%20Strings/docs/5.Strings-Question5.jpg)
    <br /> [Solution](/2.%20Strings/5.question5-solution.cpp)
+
+6. Check Sub Sequence Problem.
+   <br /> [Question](/2.%20Strings/docs/6.Strings-Question6.jpg)
+   <br /> [Solution](/2.%20Strings/6.question6-solution.cpp)
    
