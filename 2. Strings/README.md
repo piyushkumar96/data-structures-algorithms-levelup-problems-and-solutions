@@ -3,15 +3,15 @@
    <br /> [Question](/2.%20Strings/docs/1.Strings-Question1.jpg)
    <br /> [Solution](/2.%20Strings/1.question1-solution.cpp)
 
-2. String tokenization using stringstream Problem.
+2. String Tokenization using stringstream Problem.
    <br /> [Question](/2.%20Strings/docs/2.Strings-Question2.jpg)
    <br /> [Solution](/2.%20Strings/2.question2-solution.cpp)
 
-3. String tokenization using strtok Problem.
+3. String Tokenization using strtok Problem.
    <br /> [Question](/2.%20Strings/docs/3.Strings-Question3.jpg)
    <br /> [Solution](/2.%20Strings/3.question3-solution.cpp)
 
-4. Own String Tokenization function Problem.
+4. Own String Tokenization Function Problem.
    <br /> [Question](/2.%20Strings/docs/4.Strings-Question4.jpg)
    <br /> [Solution](/2.%20Strings/4.question4-solution.cpp)
 
@@ -34,4 +34,8 @@
 9. Run Length Encode Problem.
    <br /> [Question](/2.%20Strings/docs/9.Strings-Question9.jpg)
    <br /> [Solution](/2.%20Strings/9.question9-solution.cpp)
+
+10. Break Palindrome by replacing a char Problem.
+   <br /> [Question](/2.%20Strings/docs/10.Strings-Question10.jpg)
+   <br /> [Solution](/2.%20Strings/10.question10-solution.cpp)
    
