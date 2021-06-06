@@ -38,4 +38,8 @@
 10. Break Palindrome by replacing a char Problem.
    <br /> [Question](/2.%20Strings/docs/10.Strings-Question10.jpg)
    <br /> [Solution](/2.%20Strings/10.question10-solution.cpp)
+
+11. String Normalisation Problem.
+    <br /> [Question](/2.%20Strings/docs/11.Strings-Question11.jpg)
+    <br /> [Solution](/2.%20Strings/11.question11-solution.cpp)
    
