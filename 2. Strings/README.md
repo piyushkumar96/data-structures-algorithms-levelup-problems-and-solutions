@@ -26,4 +26,8 @@
 7. Sorted Sub Sequence Problem.
    <br /> [Question](/2.%20Strings/docs/7.Strings-Question7.jpg)
    <br /> [Solution](/2.%20Strings/7.question7-solution.cpp)
+
+8. Biggest Number String Problem.
+   <br /> [Question](/2.%20Strings/docs/8.Strings-Question8.jpg)
+   <br /> [Solution](/2.%20Strings/8.question8-solution.cpp)
    
