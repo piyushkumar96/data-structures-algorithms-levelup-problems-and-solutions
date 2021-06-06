@@ -30,4 +30,8 @@
 8. Biggest Number String Problem.
    <br /> [Question](/2.%20Strings/docs/8.Strings-Question8.jpg)
    <br /> [Solution](/2.%20Strings/8.question8-solution.cpp)
+
+9. Run Length Encode Problem.
+   <br /> [Question](/2.%20Strings/docs/9.Strings-Question9.jpg)
+   <br /> [Solution](/2.%20Strings/9.question9-solution.cpp)
    
