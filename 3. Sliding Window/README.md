@@ -28,5 +28,5 @@
    
    | Method | TimeComplexity | SpaceComplexity | Source | 
    |---|---|---|---|
-   | Brute Force | O(N^3) | O(1) | [Link](/https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/) |
+   | Brute Force | O(N^3) | O(1) | [Link](https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/) |
    | Sliding Window | O(N) | O(1) | [Link](/3.%20Sliding%20Window/3.question3-solution.cpp) |
