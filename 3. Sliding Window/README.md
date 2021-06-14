@@ -31,3 +31,16 @@
          |---|---|---|---|
    | Brute Force  | O(N^3) | O(1) | [Link](/https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/) |
    | Sliding Window | O(N) | O(1) | [Link](/3.%20Sliding%20Window/3.question3-solution.cpp) |
+
+4. Sliding Window Maximum Problem.
+   <br /> [Question](/3.%20Sliding%20Window/docs/4.SlidingWindow-Question4.jpg)
+   <br /> [Solution](/3.%20Sliding%20Window/4.question4-solution.cpp)
+   <br />
+
+   | Method | TimeComplexity | SpaceComplexity | Source| 
+         |---|---|---|---|
+   | Brute Force  | O(N*k) | O(1) | [Link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) |
+   | Sliding Window | O(N*K) | O(1) | [Link](/3.%20Sliding%20Window/4.question4-solution.cpp)
+   | Self Balancing BST | O(N*LogK)  | O(K) | [Link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) |
+   | Deque| O(N)  | O(K) | [Link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) |
+
