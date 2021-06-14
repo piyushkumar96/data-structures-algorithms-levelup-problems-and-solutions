@@ -50,6 +50,6 @@
    <br />
 
    | Method | TimeComplexity | SpaceComplexity | Source | 
-         |---|---|---|---|
+   |---|---|---|---|
    | Brute Force | O(N^2) | O(1) | [Link](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) |
    | Sliding Window | O(N) | O(N) | [Link](/3.%20Sliding%20Window/5.question5-solution.cpp) |
