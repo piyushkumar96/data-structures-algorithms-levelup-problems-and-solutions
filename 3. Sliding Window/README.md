@@ -39,7 +39,17 @@
 
    | Method | TimeComplexity | SpaceComplexity | Source | 
       |---|---|---|---|
-   | Brute Force | O(N*k) | O(1) | [Link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) |
+   | Brute Force | O(N*K) | O(1) | [Link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) |
    | Sliding Window | O(N*K) | O(1) | [Link](/3.%20Sliding%20Window/4.question4-solution.cpp) |
    | Self Balancing BST | O(N*LogK)  | O(K) | [Link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) |
    | Deque| O(N)  | O(K) | [Link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) |
+
+5. Count SubArray with Target Sum Problem.
+   <br /> [Question](/3.%20Sliding%20Window/docs/5.SlidingWindow-Question5.jpg)
+   <br /> [Solution](/3.%20Sliding%20Window/5.question5-solution.cpp)
+   <br />
+
+   | Method | TimeComplexity | SpaceComplexity | Source | 
+         |---|---|---|---|
+   | Brute Force | O(N^2) | O(1) | [Link](https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/) |
+   | Sliding Window | O(N) | O(N) | [Link](/3.%20Sliding%20Window/5.question5-solution.cpp) |
