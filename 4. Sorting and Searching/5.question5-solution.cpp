@@ -7,15 +7,15 @@ void insertionSortRec(vector<int>& arr, int n)
 {
     if (n <= 1)
         return;
-    insertionSortRec(arr, n-1);
+    insertionSortRec(arr, n - 1);
 
-    int lastEle = arr[n-1];
-    int j = n -2;
-    while(j>=0 && arr[j] > lastEle) {
-            arr[j+1] = arr[j];
-            j--;
+    int lastEle = arr[n - 1];
+    int j = n - 2;
+    while (j >= 0 && arr[j] > lastEle) {
+        arr[j + 1] = arr[j];
+        j--;
     }
-    arr[j+1] = lastEle;
+    arr[j + 1] = lastEle;
 }
 
 int main()

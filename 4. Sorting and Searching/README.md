@@ -45,11 +45,56 @@
    |---|---|---|---|
    | Brute Force | O(N^2) | O(1) | [Link](/4.%20Sorting%20and%20Searching/5.question5-solution.cpp) |
 
-3. Merge Sort Problem.
+6. Merge Sort Problem.
    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/1.SortingAndSearching-Question1.jpg)
    <br /> [Solution](/4.%20Sorting%20and%20Searching/6.question6-solution.cpp)
    <br />
 
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
-   | Brute Force | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/6.question6-solution.cpp) |
+   | Brute Force | O(NLog(N) | O(N) | [Link](/4.%20Sorting%20and%20Searching/6.question6-solution.cpp) |
+
+7. Recursive QuickSort (Pivot as last element) Problem.
+   <br /> [Question](/4.%20Sorting%20and%20Searching/docs/1.SortingAndSearching-Question1.jpg)
+   <br /> [Solution](/4.%20Sorting%20and%20Searching/7.question7-solution.cpp)
+   <br />
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Brute Force | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/7.question7-solution.cpp) |
+
+8. Recursive QuickSort (Pivot as first element) Problem.
+   <br /> [Question](/4.%20Sorting%20and%20Searching/docs/1.SortingAndSearching-Question1.jpg)
+   <br /> [Solution](/4.%20Sorting%20and%20Searching/8.question8-solution.cpp)
+   <br />
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Brute Force | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/8.question8-solution.cpp) |
+
+9. Iterative Merge Sort Problem.
+   <br /> [Question](/4.%20Sorting%20and%20Searching/docs/1.SortingAndSearching-Question1.jpg)
+   <br /> [Solution](/4.%20Sorting%20and%20Searching/9.question9-solution.cpp)
+   <br />
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Brute Force | O(NLog(N) | O(N) | [Link](/4.%20Sorting%20and%20Searching/9.question9-solution.cpp) |
+
+10. Iterative Quick Sort Problem.
+   <br /> [Question](/4.%20Sorting%20and%20Searching/docs/1.SortingAndSearching-Question1.jpg)
+   <br /> [Solution](/4.%20Sorting%20and%20Searching/10.question10-solution.cpp)
+   <br />
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Brute Force | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/10.question10-solution.cpp) |
+
+11. Randomize Quick Sort Problem.
+    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/1.SortingAndSearching-Question1.jpg)
+    <br /> [Solution](/4.%20Sorting%20and%20Searching/11.question11-solution.cpp)
+    <br />
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Brute Force | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/11.question11-solution.cpp) |
