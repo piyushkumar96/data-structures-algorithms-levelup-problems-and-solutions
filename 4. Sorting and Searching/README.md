@@ -107,3 +107,12 @@
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
    | Brute Force | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/12.question12-solution.cpp) |
+
+12. Count Sort Problem.
+    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/2.SortingAndSearching-Question2.jpg)
+    <br /> [Solution](/4.%20Sorting%20and%20Searching/13.question13-solution.cpp)
+    <br />
+
+| Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+| Brute Force | O(N) | Depends upon range of data | [Link](/4.%20Sorting%20and%20Searching/13.question13-solution.cpp) |
