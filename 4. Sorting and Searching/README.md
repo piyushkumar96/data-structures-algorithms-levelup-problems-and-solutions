@@ -98,3 +98,12 @@
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
    | Brute Force | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/11.question11-solution.cpp) |
+
+12. Heap Sort Problem.
+    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/1.SortingAndSearching-Question1.jpg)
+    <br /> [Solution](/4.%20Sorting%20and%20Searching/12.question12-solution.cpp)
+    <br />
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Brute Force | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/12.question12-solution.cpp) |
