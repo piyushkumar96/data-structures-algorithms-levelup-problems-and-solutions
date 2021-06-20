@@ -169,3 +169,15 @@
     |---|---|---|---|
     | Brute Force | O(N!) | O(1) |  |
     | Quick Select | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/18.question18-solution.cpp) |
+
+19. Sparse Search Problem.
+    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/8.SortingAndSearching-Question8.jpg)
+    <br /> [Solution](/4.%20Sorting%20and%20Searching/19.question19-solution.cpp)
+    <br />
+
+    | Method | TimeComplexity | SpaceComplexity | Source |
+    |---|---|---|---|
+    | Brute Force | O(N*k) | O(1) | Linear Search  |
+    | Modified Binary Search | O(Log(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/19.question19-solution.cpp) |
+
+
