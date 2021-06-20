@@ -14,7 +14,7 @@ void countSort(vector<int>& arr, int exp)
     int range = max - min + 1;
     vector<int> count(range);
     for (int i = 0; i < n; i++) {
-        count[(arr[i]/exp)%10]++;
+        count[(arr[i] / exp) % 10]++;
     }
 
     for (int i = 1; i <= range; i++) {
@@ -22,8 +22,8 @@ void countSort(vector<int>& arr, int exp)
     }
 
     for (int i = n - 1; i >= 0; i--) {
-        output[count[(arr[i]/exp)%10] - 1] = arr[i];
-        count[(arr[i]/exp)%10]--;
+        output[count[(arr[i] / exp) % 10] - 1] = arr[i];
+        count[(arr[i] / exp) % 10]--;
     }
 
     for (int i = 0; i < n; i++) {
@@ -31,11 +31,11 @@ void countSort(vector<int>& arr, int exp)
     }
 }
 
-
-void radixSort(vector<int>& arr) {
+void radixSort(vector<int>& arr)
+{
     int max = *max_element(arr.begin(), arr.end());
 
-    for(int exp=1; max/exp > 0; exp*=10) {
+    for (int exp = 1; max / exp > 0; exp *= 10) {
         countSort(arr, exp);
     }
 }
