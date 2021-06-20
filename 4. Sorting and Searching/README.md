@@ -136,7 +136,7 @@
    | Brute Force | O((N+b) * logb(k)) | Depends upon range of data | [Link](/4.%20Sorting%20and%20Searching/15.question15-solution.cpp) |
 
 16. Inversion Count Problem.
-    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/4.SortingAndSearching-Question4.jpg)
+    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/5.SortingAndSearching-Question5.jpg)
     <br /> [Solution](/4.%20Sorting%20and%20Searching/16.question16-solution.cpp)
     <br />
 
@@ -148,13 +148,24 @@
    | Using Trie | O(NLog(N) | O(NLog(N) | [Link](https://www.geeksforgeeks.org/count-inversions-in-an-array-set-4-using-trie/?ref=rp) |
 
 17. Kth smallest element Quick Select Problem.
-    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/4.SortingAndSearching-Question4.jpg)
-    <br /> [Solution](/4.%20Sorting%20and%20Searching/16.question16-solution.cpp)
+    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/6.SortingAndSearching-Question6.jpg)
+    <br /> [Solution](/4.%20Sorting%20and%20Searching/17.question17-solution.cpp)
     <br />
 
     | Method | TimeComplexity | SpaceComplexity | Source |
     |---|---|---|---|
     | Brute Force | O(N^2) | O(1) | [Link](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/) |
-    | Quick Select | O(N) (average) | O(1) | [Link](/4.%20Sorting%20and%20Searching/16.question16-solution.cpp) |
+    | Quick Select | O(N) (average) | O(1) | [Link](/4.%20Sorting%20and%20Searching/17.question17-solution.cpp) |
     | Using Min/Max Heap | O(N + kLog(N) | O(1) | [Link](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/) |
     | Using Map Frequency | O(N) | O(N) | [Link](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/) |
+
+
+18. Smallest String by Concatenating Problem.
+    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/7.SortingAndSearching-Question7.jpg)
+    <br /> [Solution](/4.%20Sorting%20and%20Searching/18.question18-solution.cpp)
+    <br />
+
+    | Method | TimeComplexity | SpaceComplexity | Source |
+    |---|---|---|---|
+    | Brute Force | O(N!) | O(1) |  |
+    | Quick Select | O(NLog(N) | O(1) | [Link](/4.%20Sorting%20and%20Searching/18.question18-solution.cpp) |
