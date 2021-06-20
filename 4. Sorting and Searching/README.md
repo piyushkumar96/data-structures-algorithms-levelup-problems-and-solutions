@@ -134,3 +134,15 @@
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
    | Brute Force | O((N+b) * logb(k)) | Depends upon range of data | [Link](/4.%20Sorting%20and%20Searching/15.question15-solution.cpp) |
+
+16. Inversion Count Problem.
+    <br /> [Question](/4.%20Sorting%20and%20Searching/docs/4.SortingAndSearching-Question4.jpg)
+    <br /> [Solution](/4.%20Sorting%20and%20Searching/16.question16-solution.cpp)
+    <br />
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Brute Force | O(N^2) | O(1) | [Link](https://www.geeksforgeeks.org/counting-inversions/#:~:text=Inversion%20Count%20for%20an%20array,inversion%20count%20is%20the%20maximum.) |
+   | Modified MergeSort | O(NLog(N) | O(N) | [Link](/4.%20Sorting%20and%20Searching/16.question16-solution.cpp) |
+   | Using BST | O(NLog(N) | O(N) | [Link](https://www.geeksforgeeks.org/count-inversions-in-an-array-set-2-using-self-balancing-bst/?ref=rp) |
+   | Using Trie | O(NLog(N) | O(NLog(N) | [Link](https://www.geeksforgeeks.org/count-inversions-in-an-array-set-4-using-trie/?ref=rp) |
