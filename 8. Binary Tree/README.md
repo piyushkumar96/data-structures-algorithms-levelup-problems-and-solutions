@@ -22,7 +22,7 @@
    ```
 
    | Method | TimeComplexity | SpaceComplexity | Source |
-      |---|---|---|---|
+   |---|---|---|---|
    | Using Queue | O(N) | O(N) | [Link](/8.%20Binary%20Tree/1.question1-solution.cpp) |
 
 3. Recursive Pre Order Traversal Problem.
@@ -35,5 +35,18 @@
    ```
 
    | Method | TimeComplexity | SpaceComplexity | Source |
-      |---|---|---|---|
+   |---|---|---|---|
    | Recursive | O(N) | O(N) | [Link](/8.%20Binary%20Tree/3.question3-solution.cpp) |
+
+3. Iterative Pre Order Traversal Problem.
+   <br /> [Question](/8.%20Binary%20Tree/docs/3.BinaryTree-Question3.jpg)
+   <br /> [Solution](/8.%20Binary%20Tree/4.question4-solution.cpp)
+   <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 4.question4-solution.cpp -o test
+   $ ./test < 0.input-file.txt
+   ```
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Iterative using stack | O(N) | O(N) | [Link](/8.%20Binary%20Tree/4.question4-solution.cpp) |
