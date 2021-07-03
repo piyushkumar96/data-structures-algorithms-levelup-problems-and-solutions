@@ -19,7 +19,7 @@ I'm maintaining this repo solely for the purpose of brushing up my DS Algo conce
 14. Graph Problems (Inprogress).
 15. Dynamic Programming (Inprogress).
 
-> Note: This is not a complete guide for interview preparation._
+> Note: This is not a complete guide for interview preparation.
 
 ### References:
 - _Cracking the Coding Interview_ by Gayle Laakmann McDowell.
