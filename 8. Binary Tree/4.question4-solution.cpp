@@ -1,6 +1,6 @@
 #include <iostream>
+#include <queue>
 #include <stack>
-#include<queue>
 
 using namespace std;
 
@@ -68,21 +68,20 @@ void printPreOrder(Node* root)
         return;
     }
 
-   stack<Node*> st;
-   st.push(root);
+    stack<Node*> st;
+    st.push(root);
 
-   while(!st.empty()) {
+    while (!st.empty()) {
         Node* n = st.top();
-        cout<<n->data<<" ";
+        cout << n->data << " ";
         st.pop();
 
-        if(n->right)
+        if (n->right)
             st.push(n->right);
 
-        if(n->left)
+        if (n->left)
             st.push(n->left);
-
-   }
+    }
 }
 
 int main()
