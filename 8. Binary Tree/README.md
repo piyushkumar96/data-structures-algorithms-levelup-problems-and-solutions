@@ -102,3 +102,16 @@
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
    | Iterative using stack| O(N) | O(N) | [Link](/8.%20Binary%20Tree/8.question8-solution.cpp) |
+
+9. Height of Binary Tree Problem.
+   <br /> [Question](/8.%20Binary%20Tree/docs/6.BinaryTree-Question6.jpg)
+   <br /> [Solution](/8.%20Binary%20Tree/9.question9-solution.cpp)
+   <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 9.question9-solution.cpp -o test
+   $ ./test < 0.input-file.txt
+   ```
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Recursive| O(N) | O(N) | [Link](/8.%20Binary%20Tree/9.question9-solution.cpp) |
