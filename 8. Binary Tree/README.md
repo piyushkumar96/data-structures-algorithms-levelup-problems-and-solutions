@@ -115,3 +115,21 @@
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
    | Recursive| O(N) | O(N) | [Link](/8.%20Binary%20Tree/9.question9-solution.cpp) |
+
+10. Diameter of Binary Tree Problem.
+   <br /> [Question](/8.%20Binary%20Tree/docs/7.BinaryTree-Question7.jpg)
+   <br /> [Solution O(N^2)](/8.%20Binary%20Tree/10.question10-solution-a.cpp)
+   <br /> [Solution O(N)](/8.%20Binary%20Tree/10.question10-solution-b.cpp)
+   <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 10.question10-solution-a.cpp -o test
+   $ ./test < 0.input-file.txt
+
+   $ g++ -std=c++14 10.question10-solution-b.cpp -o test
+   $ ./test < 0.input-file.txt
+   ```
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Calculating height and diameter in different call | O(N^2) | O(N) | [Link](/8.%20Binary%20Tree/10.question10-solution-a.cpp) |
+   | Calculating height and diameter in same call | O(N) | O(N) | [Link](/8.%20Binary%20Tree/10.question10-solution-b.cpp) |
