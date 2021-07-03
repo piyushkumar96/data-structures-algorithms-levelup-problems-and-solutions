@@ -133,3 +133,16 @@
    |---|---|---|---|
    | Calculating height and diameter in different call | O(N^2) | O(N) | [Link](/8.%20Binary%20Tree/10.question10-solution-a.cpp) |
    | Calculating height and diameter in same call | O(N) | O(N) | [Link](/8.%20Binary%20Tree/10.question10-solution-b.cpp) |
+
+11. Sum Tree Problem.
+   <br /> [Question](/8.%20Binary%20Tree/docs/8.BinaryTree-Question8.jpg)
+   <br /> [Solution](/8.%20Binary%20Tree/11.question11-solution.cpp)
+   <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 11.question11-solution.cpp -o test
+   $ ./test < 0.input-file.txt
+   ```
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Recursive | O(N) | O(N) | [Link](/8.%20Binary%20Tree/11.question11-solution.cpp) |
