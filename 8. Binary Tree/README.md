@@ -89,3 +89,16 @@
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
    | Recursive | O(N) | O(N) | [Link](/8.%20Binary%20Tree/7.question7-solution.cpp) |
+
+8. Iterative Post Order Traversal Problem.
+   <br /> [Question](/8.%20Binary%20Tree/docs/5.BinaryTree-Question5.jpg)
+   <br /> [Solution](/8.%20Binary%20Tree/8.question8-solution.cpp)
+   <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 8.question8-solution.cpp -o test
+   $ ./test < 0.input-file.txt
+   ```
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Iterative using stack| O(N) | O(N) | [Link](/8.%20Binary%20Tree/8.question8-solution.cpp) |
