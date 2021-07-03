@@ -63,3 +63,16 @@
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
    | Recursive | O(N) | O(N) | [Link](/8.%20Binary%20Tree/5.question5-solution.cpp) |
+
+5. Iterative In Order Traversal Problem.
+   <br /> [Question](/8.%20Binary%20Tree/docs/4.BinaryTree-Question4.jpg)
+   <br /> [Solution](/8.%20Binary%20Tree/6.question6-solution.cpp)
+   <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 6.question6-solution.cpp -o test
+   $ ./test < 0.input-file.txt
+   ```
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Iterative using stack | O(N) | O(N) | [Link](/8.%20Binary%20Tree/6.question6-solution.cpp) |
