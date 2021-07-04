@@ -164,3 +164,16 @@
    |---|---|---|---|
    | Calculating height and balance check in different call | O(N^2) | O(N) | [Link](/8.%20Binary%20Tree/12.question12-solution-a.cpp) |
    | Calculating height and balance check in same call | O(N) | O(N) | [Link](/8.%20Binary%20Tree/12.question12-solution-b.cpp) |
+
+13. Max Sub Set Sum Tree Problem.
+    <br /> [Question](/8.%20Binary%20Tree/docs/10.BinaryTree-Question10.jpg)
+    <br /> [Solution](/8.%20Binary%20Tree/13.question13-solution.cpp)
+    <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 13.question13-solution.cpp -o test
+   $ ./test < 0.input-file.txt
+   ```
+
+| Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+| Recursive | O(N) | O(N) | [Link](/8.%20Binary%20Tree/13.question13-solution.cpp) |
