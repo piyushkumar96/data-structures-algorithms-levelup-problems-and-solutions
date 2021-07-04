@@ -64,7 +64,7 @@ public:
     int exc;
 };
 
-HBPair maxSubSetSum(Node* root, int &maxSum)
+HBPair maxSubSetSum(Node* root, int& maxSum)
 {
     HBPair p;
     if (root == NULL) {
@@ -92,7 +92,7 @@ int main()
     cout << endl;
     int maxSum = 0;
     maxSubSetSum(root, maxSum);
-    cout << "The max sub set sum for given tree is " << maxSum<< endl;
+    cout << "The max sub set sum for given tree is " << maxSum << endl;
 
     return 0;
 }
