@@ -146,3 +146,21 @@
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
    | Recursive | O(N) | O(N) | [Link](/8.%20Binary%20Tree/11.question11-solution.cpp) |
+
+12. Height Balance Tree Problem.
+    <br /> [Question](/8.%20Binary%20Tree/docs/9.BinaryTree-Question9.jpg)
+    <br /> [Solution O(N^2)](/8.%20Binary%20Tree/12.question12-solution-a.cpp)
+    <br /> [Solution O(N)](/8.%20Binary%20Tree/12.question12-solution-b.cpp)
+    <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 12.question12-solution-a.cpp -o test
+   $ ./test < 0.input-file.txt
+
+   $ g++ -std=c++14 12.question12-solution-b.cpp -o test
+   $ ./test < 0.input-file.txt
+   ```
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Calculating height and balance check in different call | O(N^2) | O(N) | [Link](/8.%20Binary%20Tree/12.question12-solution-a.cpp) |
+   | Calculating height and balance check in same call | O(N) | O(N) | [Link](/8.%20Binary%20Tree/12.question12-solution-b.cpp) |
