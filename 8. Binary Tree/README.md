@@ -177,3 +177,16 @@
 | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
 | Recursive | O(N) | O(N) | [Link](/8.%20Binary%20Tree/13.question13-solution.cpp) |
+
+14. Nodes At Distance k from target Node (Sorted) Problem.
+    <br /> [Question](/8.%20Binary%20Tree/docs/11.BinaryTree-Question11.jpg)
+    <br /> [Solution](/8.%20Binary%20Tree/14.question14-solution.cpp)
+    <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 14.question14-solution.cpp -o test
+   $ ./test
+   ```
+
+   | Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+   | Recursive | O(N) | O(N) | [Link](/8.%20Binary%20Tree/14.question14-solution.cpp) |
