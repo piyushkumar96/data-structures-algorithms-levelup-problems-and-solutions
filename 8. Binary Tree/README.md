@@ -216,3 +216,16 @@
 | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
 | Recursive using levelOrderTraversal | O(N) | O(N) | [Link](/8.%20Binary%20Tree/16.question16-solution.cpp) |
+
+17. InterConvertible Tree by Sibling Swapping Problem.
+    <br /> [Question](/8.%20Binary%20Tree/docs/14.BinaryTree-Question14.jpg)
+    <br /> [Solution](/8.%20Binary%20Tree/17.question17-solution.cpp)
+    <br /> Command:-
+   ```shell
+   $ g++ -std=c++14 17.question17-solution.cpp -o test
+   $ ./test
+   ```
+
+| Method | TimeComplexity | SpaceComplexity | Source |
+   |---|---|---|---|
+| Recursive | O(N) | O(h) </br> where h is height of tree | [Link](/8.%20Binary%20Tree/17.question17-solution.cpp) |
