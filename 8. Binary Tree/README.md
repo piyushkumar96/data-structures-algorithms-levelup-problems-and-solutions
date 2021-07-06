@@ -202,4 +202,4 @@
 
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
-   | Recursive | O(N) | O(N) | [Link](/8.%20Binary%20Tree/15.question15-solution.cpp) |
+   | Recursive | Average Case O(N) </br> Worst Case</br> 1) unordered_map :- O(N^2) as insertion in map will take O(N)</br> 2). map :- O(NLog(N) as insertion in map will take O(LogN) implemented using SBT | O(N) | [Link](/8.%20Binary%20Tree/15.question15-solution.cpp) |
