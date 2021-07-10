@@ -24,4 +24,4 @@
 
    | Method | TimeComplexity | SpaceComplexity | Source |
    |---|---|---|---|
-   | Recursive | O(N) | O(N) | [Link](/9.%20Binary%20Search%20Tree/1.question1-solution.cpp) |
+   | Recursive | O(N) | O(N) | [Link](/9.%20Binary%20Search%20Tree/2.question2-solution.cpp) |
